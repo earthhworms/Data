@@ -5,18 +5,21 @@ Repository of SQL, Matplotlib, Pandas, Tableu, Seaborn, and other data analysis 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Projects](#projects)
-  - [Project 1: SQL Project](#project-1-sql-project)
-  - [Project 2: Python Project](#project-2-python-project)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
 Provide a brief overview of the repository, its purpose, and the type of projects included. Mention any dependencies or requirements.
 
 This repository is meant to show my skills as a data analyst. It is also meant to be a collection of some of my projects. Most of these projects are built with:
+- SQL
+- Python
+- Matplotlib
+- Seaborn
+- Tableau
+- Pandas
+
+  
 
 ## Projects
 
