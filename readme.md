@@ -26,7 +26,7 @@ Python visualization and analysis project. In this project, I import a handful o
 - Why is the Citigroup highest, and lowest single day return so close to eachother?
 - What is the rolling 30 day average against the close price of Bank of America?
 
-### [Project 2: 911 Call Analysis][https://github.com/earthhworms/Data/blob/main/Python/911-Call-Analysis.py]
+### [Project 2: 911 Call Analysis](https://github.com/earthhworms/Data/blob/main/Python/911-Call-Analysis.py)
 
 In this project I analyze data from 911 calls and find trends. I make graphs to show things such as:
 - What are the most common reasons for 911 calls?
