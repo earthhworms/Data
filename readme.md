@@ -20,7 +20,7 @@ This repository is meant to show my skills as a data analyst. It is also meant t
 
 ## Projects
 
-### [Project 1: Financial Analysis](#Python/FinanceProject.py)
+### [Project 1: Financial Analysis](#FinanceProject.py)
 
 Python visualization and analysis project. In this project, I import a handful of stocks and see their progression through the financial crisis of 2007-08. These stocks span from 2006-16, and I utilize tools such as Matplotlib and Pandas to build heatmaps and graphs. In this project I ask and answer questions such as:
 - Why is the Citigroup highest, and lowest single day return so close to eachother?
