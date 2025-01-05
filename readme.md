@@ -5,7 +5,6 @@ Repository of SQL, Matplotlib, Pandas, Tableu, Seaborn, and other data analysis 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Projects](#projects)
-- [Installation](#installation)
 
 ## Introduction
 
@@ -36,5 +35,3 @@ In this project I analyze data from 911 calls and find trends. I make graphs to 
 - Which reasons are most common for each day of the week?
 - Which reasons are most common for each month
 - Heatmaps for finding which hour and day of the week has the most activity for 911 calls.
-
-## Installation
